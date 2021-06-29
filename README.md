@@ -20,3 +20,5 @@ v.	删除学生信息，Excel中也需要删除 (5)
 c)	学生成绩统计：(15)
 i.	显示学生总数，分别显示优、良、中、及格、不及格数量 (5)
 ii.	用图表统计，自行选用图表 (10)
+## 效果图
+![_%{NO XC$}Y@F(R_X25APAS](https://user-images.githubusercontent.com/57565901/123737818-3ba1ea00-d8d6-11eb-8afd-c0866bdcb3c0.png)
